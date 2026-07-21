@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek014_000.yaml, hash: 'sha256:775cc7ac6839ac4b39eea0f5330748d547a4b15cb9234000f278e6d302577d25'}
+  - {seq: 0, filename: KR3ek014_000.yaml, hash: 'sha256:53eb6d2272c7c2d755ff22a8b3c45e9d031d86117043ff3625b8a2dbebb6e971'}
   - {seq: 1, filename: KR3ek014_001.yaml, hash: 'sha256:81cd13bde2626c7661a28434da16b690476dc2aa239609805956ec9e528f5d15'}
   - {seq: 2, filename: KR3ek014_002.yaml, hash: 'sha256:eae6797715d7f44be398ceb56338b5eb64afe68deb4e0623dc77e6d83aabc6fc'}
   - {seq: 3, filename: KR3ek014_003.yaml, hash: 'sha256:3fcb3c0cfe2e67b4566003c27d713eedee711bce20b396721ef0a53e39d0158e'}
   - {seq: 4, filename: KR3ek014_004.yaml, hash: 'sha256:a26641d45b50acdecc48c15940489a8f186d0a5d46d05470fdca638ac678e23c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek014_000.markers.yaml, hash: 'sha256:0176971795d190a652075d1c9ed0edd02d68345caf721d580148fb9cab2fd53a'}
+  - {seq: 0, role: markers, filename: assets/KR3ek014_000.markers.yaml, hash: 'sha256:7e69f62d6b8b0d69f6aa17080b4e2704d27a1077f16c49ffa40cc5c1514b4af0'}
   - {seq: 1, role: markers, filename: assets/KR3ek014_001.markers.yaml, hash: 'sha256:15cdc02d956f991aae38971c9b45d5cf4da633c8fb9b3a78246b9719ded6cc32'}
   - {seq: 2, role: markers, filename: assets/KR3ek014_002.markers.yaml, hash: 'sha256:5b1400efbafe1f10c9f98e0f8adf83336e77392ef810e592846a51c2aae8cea6'}
   - {seq: 3, role: markers, filename: assets/KR3ek014_003.markers.yaml, hash: 'sha256:77a5886e2373ff2a86dfa30422e34539d4ee3a382b03c05597e125e6c9a4dc28'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek014_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 493
   label: 自序
@@ -2969,7 +2969,7 @@ table_of_contents:
   label: 補遺方一百五十七
   type: section
   level: 3
-hash: sha256:81664959716bae80d96c0e8fd1aa3ad17518b3f05e406b8dc1195d3dc35ab081
+hash: sha256:d0005489703acde819b0caba54fefeb4c28b42b256ca4b29b541a4cad0da2cae
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
